@@ -1,0 +1,29 @@
+# Week 1: APTs and Insider Threats (CompTIA Security+ SY0-701)
+
+*Notes from Week 1 of my CompTIA Security+ (SY0-701) study plan, focusing on Advanced Persistent Threats (APTs) and insider threats in the Threats, Attacks, and Vulnerabilities domain.*
+
+## APTs and Insider Threats: Key Cybersecurity Concepts
+
+As I prepare for the CompTIA Security+ (SY0-701) exam, I explored Advanced Persistent Threats (APTs) and insider threats, critical topics in understanding cybersecurity risks. These threats, part of Domain 1.2, highlight diverse actors and attack methods organizations must defend against.
+
+### Advanced Persistent Threats (APTs)
+APTs are targeted, stealthy cyberattacks designed for prolonged access to sensitive systems. Launched by skilled actors like nation-states or organized crime, APTs aim for espionage, data theft, or disruption. They use advanced techniques such as spear-phishing, zero-day exploits, and custom malware. For example, Stuxnet, a nation-state-backed worm, disrupted industrial systems with precision. APTs’ persistence makes them hard to detect, requiring vigilant defenses.
+
+**Exam Tip**: Know APT characteristics (targeted, long-term, stealthy) and common vectors (e.g., spear-phishing).
+
+### Insider Threats
+Insider threats stem from employees, contractors, or partners misusing authorized access. Malicious insiders steal data or sabotage systems for motives like profit or revenge. Unintentional insiders cause harm through errors, such as clicking phishing links. The 2020 Twitter breach, where attackers used social engineering to exploit employee credentials, shows insiders’ impact. Their legitimate access complicates detection.
+
+**Exam Tip**: Differentiate malicious (intentional) vs. unintentional (accidental) insiders for scenario-based questions.
+
+### Mitigation Strategies
+To counter APTs and insider threats, organizations implement:
+- **Least-Privilege Access**: Limits user permissions to reduce risk.
+- **Continuous Monitoring**: Uses intrusion detection systems to spot anomalies.
+- **Security Training**: Educates users to avoid phishing and errors.
+
+**Practical Takeaway**: Regularly update access controls and monitor user behavior to catch threats early.
+
+By mastering these concepts, organizations can protect against external and internal risks, and I’m building a strong foundation for the Security+ exam.
+
+*Follow my Security+ journey on [GitHub](https://github.com/your-username/SecurityPlus-Notes) for more notes!*
