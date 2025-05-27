@@ -26,4 +26,70 @@ To counter APTs and insider threats, organizations implement:
 
 By mastering these concepts, organizations can protect against external and internal risks, and I’m building a strong foundation for the Security+ exam.
 
-*Follow my Security+ journey on [GitHub](https://github.com/your-username/SecurityPlus-Notes) for more notes!*
+
+
+→→Week1_APT_InsiderThreats_Quiz_Answers:-
+
+Q1)What defines an Advanced Persistent Threat (APT)?
+a) Random, automated attacks
+b) Targeted, stealthy, long-term attacks
+c) Public website defacement
+d) Low-skill exploits
+✔️ Answer: b) Targeted, stealthy, long-term attacks
+Explanation: APTs are well-planned, long-duration, stealthy attacks typically targeting high-value assets. They are not random or noisy like common attacks.
+
+Q2)Which actor typically conducts APTs?
+a) Script kiddies
+b) Nation-state hackers
+c) Insiders
+d) Hacktivists
+✔️ Answer: b) Nation-state hackers
+Explanation: APTs are often executed by nation-state actors or state-sponsored groups due to the high resources and time involved.
+
+Q3)An employee intentionally leaks sensitive data. This is:
+a) An unintentional insider threat
+b) A malicious insider threat
+c) An external threat
+d) A hacktivist attack
+✔️ Answer: b) A malicious insider threat
+Explanation: Malicious insiders are users who intentionally misuse their access to cause harm, such as leaking confidential information.
+
+Q4)What is a common APT attack method?
+a) Brute-force logins
+b) Spear-phishing
+c) Public social media posts
+d) Unsecured Wi-Fi
+✔️ Answer: b) Spear-phishing
+Explanation: APTs often begin with spear-phishing, which is a targeted email-based attack to trick specific individuals into providing access or credentials.
+
+Q5)Why are insider threats challenging to detect?
+a) They use external tools
+b) They have legitimate access
+c) They target public data only
+d) They cause no damage
+✔️ Answer: b) They have legitimate access
+Explanation: Insiders already have authorized access, making it harder to distinguish normal use from malicious actions.
+
+Q6)What mitigates both APTs and insider threats?
+a) Granting full access to users
+b) Continuous monitoring
+c) Disabling antivirus software
+d) Ignoring logs
+✔️ Answer: b) Continuous monitoring
+Explanation: Continuous monitoring through tools like SIEMs helps detect anomalies in behavior or access patterns that indicate APT or insider activity.
+
+Q7)The 2020 Twitter breach involved employees tricked into sharing credentials. This is:
+a) An APT
+b) An unintentional insider threat
+c) A denial-of-service attack
+d) A script kiddie exploit
+✔️ Answer: b) An unintentional insider threat
+Explanation: The employees were socially engineered into giving away credentials—they didn’t intend harm, making it an unintentional insider threat.
+
+Q8)What is a common goal of an APT?
+a) Immediate system shutdown
+b) Long-term data theft
+c) Public data leaks
+d) Random file deletion
+✔️ Answer: b) An unintentional insider threat
+Explanation: The employees were socially engineered into giving away credentials—they didn’t intend harm, making it an unintentional insider threat.
