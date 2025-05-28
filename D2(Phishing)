@@ -37,32 +37,66 @@ Phishing is a core topic in Domain 1 (General Security Concepts) of the Security
 
 
 Question 1
-What is the primary goal of a phishing attack?A) To physically damage a user’s deviceB) To trick users into revealing sensitive information or clicking malicious linksC) To encrypt files for ransomD) To overload a server with traffic  
+What is the primary goal of a phishing attack?
+A) To physically damage a user’s device
+B) To trick users into revealing sensitive information or clicking malicious links
+C) To encrypt files for ransom
+D) To overload a server with traffic  
 Answer: B) To trick users into revealing sensitive information or clicking malicious linksExplanation: Phishing is a social engineering attack that deceives users into sharing credentials, financial details, or clicking links that may install malware. Unlike physical damage (A), ransomware (C), or DDoS attacks (D), phishing exploits human trust.Example: An email pretending to be from a bank asks a user to log in via a fake website, capturing their username and password.
 
 Question 2
-An employee receives an email from “support@paypa1.com” asking them to verify their account. What type of phishing indicator is this?A) Generic greetingB) Suspicious URL or domainC) Urgent languageD) Unfamiliar attachment  
+An employee receives an email from “support@paypa1.com” asking them to verify their account. What type of phishing indicator is this?
+A) Generic greeting
+B) Suspicious URL or domain
+C) Urgent language
+D) Unfamiliar attachment  
 Answer: B) Suspicious URL or domainExplanation: A misspelled or altered domain (e.g., “paypa1.com” instead of “paypal.com”) is a common phishing indicator. Generic greetings (A), urgent language (C), or attachments (D) may also apply but aren’t described here.Example: A user receives an email from “admin@g00gle.com” instead of “google.com,” signaling a phishing attempt.
 
 Question 3
-Which type of phishing targets a specific individual with tailored information?A) PhishingB) Spear phishingC) WhalingD) Vishing  
+Which type of phishing targets a specific individual with tailored information?
+A) Phishing
+B) Spear phishing
+C) Whaling
+D) Vishing  
 Answer: B) Spear phishingExplanation: Spear phishing targets specific individuals using personalized details (e.g., name, job role) to increase credibility. Standard phishing (A) is broad, whaling (C) targets high-profile individuals like CEOs, and vishing (D) uses voice calls.Example: An email addressed to “Dear John Smith, HR Manager” with details about a fake company project is spear phishing.
 
 Question 4
-A user receives a text message claiming their package delivery failed and urging them to click a link to reschedule. This is an example of:A) PhishingB) SmishingC) VishingD) Whaling  
+A user receives a text message claiming their package delivery failed and urging them to click a link to reschedule. This is an example of:
+A) Phishing
+B) Smishing
+C) Vishing
+D) Whaling  
 Answer: B) SmishingExplanation: Smishing (SMS phishing) uses text messages to trick users into clicking links or sharing information. Phishing (A) typically involves email, vishing (C) uses voice, and whaling (D) targets executives.Example: A text from “FedEx” with a link to a fake tracking page that asks for login credentials is smishing.
 
 Question 5
-What is the BEST way to verify a suspicious email claiming to be from your bank?A) Click the link provided to check the websiteB) Reply to the email with your account detailsC) Contact the bank using a trusted phone number or websiteD) Forward the email to a colleague for advice  
+What is the BEST way to verify a suspicious email claiming to be from your bank?
+A) Click the link provided to check the website
+B) Reply to the email with your account details
+C) Contact the bank using a trusted phone number or website
+D) Forward the email to a colleague for advice  
 Answer: C) Contact the bank using a trusted phone number or websiteExplanation: Verifying suspicious emails through official, trusted channels (e.g., the bank’s verified website or phone number) prevents falling for phishing. Clicking links (A), replying with details (B), or forwarding (D) could escalate the risk.Example: If an email claims to be from Chase Bank, call the number on your bank card or visit chase.com directly.
+
 Question 6
-Which mitigation strategy is MOST effective for preventing phishing attacks in an organization?A) Installing antivirus softwareB) Implementing user awareness trainingC) Upgrading server hardwareD) Encrypting all network traffic  
+Which mitigation strategy is MOST effective for preventing phishing attacks in an organization?
+A) Installing antivirus software
+B) Implementing user awareness training
+C) Upgrading server hardware
+D) Encrypting all network traffic  
 Answer: B) Implementing user awareness trainingExplanation: User awareness training teaches employees to recognize and report phishing, addressing the human factor exploited in these attacks. Antivirus (A) helps with malware, but not all phishing delivers malware. Server upgrades (C) and encryption (D) don’t directly address phishing.Example: Training employees to spot fake URLs reduces the likelihood of clicking phishing links.
 
 Question 7
-An email with a generic greeting like “Dear Customer” and a request to update login credentials is likely:A) A legitimate company requestB) A phishing attemptC) A software update notificationD) A spear phishing attempt  
+An email with a generic greeting like “Dear Customer” and a request to update login credentials is likely:
+A) A legitimate company request
+B) A phishing attempt
+C) A software update notification
+D) A spear phishing attempt  
 Answer: B) A phishing attemptExplanation: Generic greetings like “Dear Customer” are common in broad phishing emails, which aim to trick many users. Legitimate requests (A) are usually personalized, software updates (C) don’t request credentials, and spear phishing (D) is targeted, not generic.Example: An email from “support@generic.com” saying “Dear User, update your password” is likely phishing.
+
 Question 8
-A CEO Receives an email requesting urgent approval for a large wire transfer. This is an example of:A) PhishingB) Spear phishingC) WhalingD) Smishing  
+A CEO Receives an email requesting urgent approval for a large wire transfer. This is an example of:
+A) Phishing
+B) Spear phishing
+C) Whaling
+D) Smishing  
 Answer: C) WhalingExplanation: Whaling is a type of phishing targeting high-profile individuals like CEOs, often involving urgent or financial requests. Phishing (A) is broad, spear phishing (B) targets specific individuals but not necessarily executives, and smishing (D) uses SMS.Example: An email posing as the CFO asking the CEO to approve a $50,000 transfer is whaling.
 
